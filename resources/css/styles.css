@@ -322,6 +322,18 @@ header {
     margin-right:25px;
 }
 
+.btn-app img{
+    width:auto;
+    height:50px;;
+    margin-right:10px;
+}
 
+.works-step:last-of-type{
+    margin-bottom:100px;
+}
+
+.section-steps{
+    background-color: #ededed;
+}
 
 
